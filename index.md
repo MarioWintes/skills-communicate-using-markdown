@@ -21,3 +21,10 @@ int[] arr = {1, 2, 6, 7, 100}
 $ git init
 INitialized empty Git repository in /Mario/Studium/Practice/.git/
 ```
+
+
+### Task List
+
+- [x] Do GitHub Skills 1
+- [ ] communicate via markdown
+- [ ] Introduce myself to the world
